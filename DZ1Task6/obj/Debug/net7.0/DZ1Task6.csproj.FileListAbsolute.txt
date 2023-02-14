@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.AssemblyInfo.cs
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\bin\Debug\net7.0\DZ1Task6.exe
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\bin\Debug\net7.0\DZ1Task6.deps.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\bin\Debug\net7.0\DZ1Task6.runtimeconfig.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\bin\Debug\net7.0\DZ1Task6.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\bin\Debug\net7.0\DZ1Task6.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\refint\DZ1Task6.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\DZ1Task6.genruntimeconfig.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\DZ1Task6\obj\Debug\net7.0\ref\DZ1Task6.dll
