@@ -21,14 +21,14 @@
 
 // for ( int i = 2; i <=number; i=i+2)
 // {
-//     Console.WriteLine("числа", i);
+//     Console.WriteLine("числа", i);                           10 попыток и ошибка
 // }
 
-Console.Write("Ввидете число");                                     //10 попыток и ошибка
+Console.Write("Ввидете число");                                    
 int N = Convert.ToInt32(Console.ReadLine());
 int i = 2;
 while ( i <= N )
 {
-    Console.WriteLine("числа", i);
+    Console.WriteLine( i);
     i=i+1;
 }
