@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\bin\Debug\net7.0\Sem2Task9.exe
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\bin\Debug\net7.0\Sem2Task9.deps.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\bin\Debug\net7.0\Sem2Task9.runtimeconfig.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\bin\Debug\net7.0\Sem2Task9.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\bin\Debug\net7.0\Sem2Task9.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.AssemblyInfo.cs
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\refint\Sem2Task9.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\Sem2Task9.genruntimeconfig.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2Task9\obj\Debug\net7.0\ref\Sem2Task9.dll

@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\bin\Debug\net7.0\Sem2task14.exe
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\bin\Debug\net7.0\Sem2task14.deps.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\bin\Debug\net7.0\Sem2task14.runtimeconfig.json
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\bin\Debug\net7.0\Sem2task14.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\bin\Debug\net7.0\Sem2task14.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.AssemblyInfo.cs
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\refint\Sem2task14.dll
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.pdb
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\Sem2task14.genruntimeconfig.cache
+C:\Users\DNS\Desktop\гб\семин\С#\AltergotDV_GB\Sem2task14\obj\Debug\net7.0\ref\Sem2task14.dll
